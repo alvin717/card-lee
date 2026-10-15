@@ -26,8 +26,8 @@
 - HTML, CSS, JS 파일 모듈 분리 작성
 
 ## 5. 배포 및 깃허브(GitHub) 저장소 규정
-- 공식 GitHub 저장소: https://github.com/alvin717/my--card.git
-- Vercel 배포 도메인: https://my-card-blond-phi.vercel.app
+- 공식 GitHub 저장소: https://github.com/alvin717/card-lee.git
+- 웹 배포 도메인(GitHub Pages): https://alvin717.github.io/card-lee/
 - 브랜치: main
-- 자동 배포 스크립트: E:\Gemini CLI\명함앱\배포하기.bat
-- 버셀과 연결된 공식 저장소는 alvin717/my--card (하이픈 2개) 입니다.
+- 자동 배포 스크립트: E:\Gemini CLI\이진형\배포하기.bat
+- 본 폴더는 이진형 실장 단독 모바일 명함 전용 프로젝트입니다.
