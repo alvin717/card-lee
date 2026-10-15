@@ -1,4 +1,4 @@
-/**
+﻿/**
  * ==========================================================================
  * 힐스테이트 회룡역파크뷰 모바일 명함 스크립트 (script.js)
  * 
@@ -110,7 +110,7 @@ function initShareFeatures() {
   const btnShareLink = document.getElementById("btnShareLink");
 
   // 대표 공유 URL: 로컬 파일(file:) 또는 로컬호스트 실행 시에도 실제 웹사이트 주소로 정확히 연결
-  const defaultShareUrl = CONTACT_INFO.website || "https://hyeong-homepage.vercel.app/";
+  const defaultShareUrl = "https://alvin717.github.io/card-lee/";
   const baseUrl = (window.location.protocol === "http:" || window.location.protocol === "https:") && !window.location.hostname.includes("localhost") && !window.location.hostname.includes("127.0.0.1")
     ? window.location.href.split("?")[0]
     : defaultShareUrl;
